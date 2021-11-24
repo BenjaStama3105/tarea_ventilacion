@@ -5,6 +5,9 @@ Se organiza en
 # grupo_epg
 El grupo para simular en E+
 
+#osm
+El archivo .osm que posteriormente se exportó a .idf
+
 # vent15
 Los archivos de la simulación del IDF con la temperatura de 15 °C fijada al interior.
 
