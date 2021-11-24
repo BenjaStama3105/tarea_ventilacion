@@ -6,7 +6,7 @@ Se organiza en
 El grupo para simular en E+
 
 #osm
-El archivo .osm que posteriormente se exportó a .idf
+El archivo osm que posteriormente se exportó a idf
 
 # vent15
 Los archivos de la simulación del IDF con la temperatura de 15 °C fijada al interior.
@@ -18,5 +18,5 @@ Los archivos de la simulación del IDF con la temperatura de 25 °C fijada al in
 Los archivos de la simulación del IDF con la temperatura de 35 °C fijada al interior.
 
 # resultadosAFN
-Los tres archivos .csv con las variables de salida AFN Linkage Node 2 to Node 1 Volume Flow Rate [m3/s](Hourly), AFN Linkage Node 1 to Node 2 Volume Flow Rate [m3/s](Hourly), etc.
+Los tres archivos .csv con las variables de salida AFN Linkage Node 2 to Node 1 Volume Flow Rate [m3/s] (Hourly), AFN Linkage Node 1 to Node 2 Volume Flow Rate [m3/s] (Hourly), etc.
 
