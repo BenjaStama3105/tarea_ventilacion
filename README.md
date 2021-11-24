@@ -1,5 +1,7 @@
 # tarea_ventilacion
-Este repositorio tiene los datos y resultados correspondientes a la tarea de Ventilación con el modelo de Air Flow Network en Energy Plus.
+Este repositorio tiene los datos y resultados correspondientes a la tarea de Ventilación con el modelo de Air Flow Network en Energy Plus. 
+
+Esto se realizó para el Caso 3, con dos ventanas de 1x1m en la cara sur de la edificación de 5x5x9m (h=9m).
 
 Se organiza en
 # grupo_epg
