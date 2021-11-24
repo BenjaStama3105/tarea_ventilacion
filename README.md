@@ -5,7 +5,7 @@ Se organiza en
 # grupo_epg
 El grupo para simular en E+
 
-#osm
+# osm
 El archivo osm que posteriormente se exportó a idf
 
 # vent15
