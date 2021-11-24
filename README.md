@@ -6,13 +6,13 @@ Se organiza en
 El grupo para simular en E+
 
 # vent15
-Los archivos de la simulación de la temperatura de 15 °C fijada al interior.
+Los archivos de la simulación del IDF con la temperatura de 15 °C fijada al interior.
 
 # vent25
-Los archivos de la simulación de la temperatura de 25 °C fijada al interior.
+Los archivos de la simulación del IDF con la temperatura de 25 °C fijada al interior.
 
 # vent35
-Los archivos de la simulación de la temperatura de 35 °C fijada al interior.
+Los archivos de la simulación del IDF con la temperatura de 35 °C fijada al interior.
 
 # resultadosAFN
 Los tres archivos .csv con las variables de salida AFN Linkage Node 2 to Node 1 Volume Flow Rate [m3/s](Hourly), AFN Linkage Node 1 to Node 2 Volume Flow Rate [m3/s](Hourly), etc.
