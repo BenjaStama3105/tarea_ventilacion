@@ -17,7 +17,8 @@ Los archivos de la simulación de la temperatura de 35 °C fijada al interior.
 # resultadosAFN
 Los tres archivos .csv con las variables de salida AFN Linkage Node 2 to Node 1 Volume Flow Rate [m3/s](Hourly), AFN Linkage Node 1 to Node 2 Volume Flow Rate [m3/s](Hourly), etc.
 
-Nombre: Benjamín Santamaría Beltrán
-Instituto de Energías Renovables, UNAM.
+#Datos
+Nombre: Benjamín Santamaría Beltrán \n
+Instituto de Energías Renovables, UNAM. \n
 México
 
