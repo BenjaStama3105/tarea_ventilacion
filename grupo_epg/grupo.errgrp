@@ -1,0 +1,86 @@
+
+
+=====================================================================================================================
+Input File:     C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\ventilacion\idf\vent35\vent35.idf
+Weather File:   C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\181031_NR_25C_45ms_50HR_P101325CST.epw
+Output Files:   C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\ventilacion\idf\vent35\vent35
+Output Time:    24/11/2021 09:12:52 a. m. 
+Counter:         1 
+---------------------------------------------------------------------------------------------------------------------
+Program Version,EnergyPlus, Version 9.5.0-de239b2e5f, YMD=2021.11.24 09:12,
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing design day simulations, but no design environments specified.
+   **   ~~~   ** ...No design environment results produced. For these results, add appropriate SizingPeriod:* objects for your simulation.
+   ** Warning ** Site:GroundTemperature:BuildingSurface: Some values fall outside the range of 15-25C.
+   **   ~~~   ** These values may be inappropriate.  Please consult the Input Output Reference for more details.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* There are 25 unused schedules in input.
+   ************* There are 25 unused week schedules in input.
+   ************* There are 117 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 2 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  9.50sec
+
+
+=====================================================================================================================
+Input File:     C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\ventilacion\idf\vent25\vent25.idf
+Weather File:   C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\181031_NR_25C_45ms_50HR_P101325CST.epw
+Output Files:   C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\ventilacion\idf\vent25\vent25
+Output Time:    24/11/2021 09:12:53 a. m. 
+Counter:         1 
+---------------------------------------------------------------------------------------------------------------------
+Program Version,EnergyPlus, Version 9.5.0-de239b2e5f, YMD=2021.11.24 09:12,
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing design day simulations, but no design environments specified.
+   **   ~~~   ** ...No design environment results produced. For these results, add appropriate SizingPeriod:* objects for your simulation.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* There are 25 unused schedules in input.
+   ************* There are 25 unused week schedules in input.
+   ************* There are 117 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 1 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 10.81sec
+
+
+=====================================================================================================================
+Input File:     C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\ventilacion\idf\vent15\vent.idf
+Weather File:   C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\181031_NR_25C_45ms_50HR_P101325CST.epw
+Output Files:   C:\Users\benX\OneDrive\Documentos\LIER\7mo_Sem\EE\ventilacion\idf\vent15\vent
+Output Time:    24/11/2021 09:13:05 a. m. 
+Counter:         1 
+---------------------------------------------------------------------------------------------------------------------
+Program Version,EnergyPlus, Version 9.5.0-de239b2e5f, YMD=2021.11.24 09:12,
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing design day simulations, but no design environments specified.
+   **   ~~~   ** ...No design environment results produced. For these results, add appropriate SizingPeriod:* objects for your simulation.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* There are 25 unused schedules in input.
+   ************* There are 25 unused week schedules in input.
+   ************* There are 117 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 1 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  9.42sec
